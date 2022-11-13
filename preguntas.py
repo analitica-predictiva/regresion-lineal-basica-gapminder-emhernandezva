@@ -66,7 +66,7 @@ def pregunta_02():
 
 
 def pregunta_03():
-      """
+    """
     Entrenamiento del modelo sobre todo el conjunto de datos.
     Complete el código presentado a continuación.
     """
